@@ -15,3 +15,8 @@ I am student JS/FE Stage 1 course.
 * English - B1
 * Russan - native speaker
 * Belarussian - native speaker
+
+## Skills and Proficiency:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
